@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Andrzej Jelenia Góra - Cieplice Śląskie Zdrój')
+    print_hi('Steve Jelenia Góra - Cieplice Śląskie Zdrój')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
